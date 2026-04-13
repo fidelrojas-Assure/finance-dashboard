@@ -2,6 +2,10 @@
 
 Panel personal de finanzas construido con **React**, **Vite** y **Tailwind CSS v4**. Incluye tema oscuro, tarjetas con estilo *glassmorphism*, datos mock realistas y gráficos derivados de esas transacciones.
 
+## Demo en vivo
+
+Instancia publicada en Vercel: [https://finance-dashboard-rosy-xi.vercel.app/](https://finance-dashboard-rosy-xi.vercel.app/)
+
 ## Características
 
 - **Resumen**: saldo total (libro + flujo del periodo), ingresos y gastos en una ventana móvil de **30 días**.
